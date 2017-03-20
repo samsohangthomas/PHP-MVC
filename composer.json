@@ -1,0 +1,13 @@
+{
+	"autoload" : {
+		"classmap" :[
+			"./core",
+			"./controllers",
+			"./models"
+		],
+        "files": ["helper/helper.php","helper/validation.php"]
+	},
+	"require" : {
+  		
+ 	 }
+}
